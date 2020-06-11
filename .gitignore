@@ -1,0 +1,9 @@
+node_modules
+node_modules/*
+app.json
+babel.config.json
+.expo
+.expo/*
+.idea
+.idea/*
+package.jsonpackage-lock.json
